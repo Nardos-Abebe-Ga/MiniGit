@@ -1,0 +1,12 @@
+# Ignore MiniGit internal data
+.minigit/
+
+# Ignore executable builds
+*.exe
+
+# Ignore temporary or object files
+*.obj
+*.log
+
+# Optional: VS Code workspace settings
+.vscode/

@@ -1,0 +1,7 @@
+Hello from MiniGit!
+this is the first version.
+this is the second version.
+added a new line
+another line
+this should work
+
